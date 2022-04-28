@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from "./App";
-console.log("3333333333333")
+
+console.log(2222222222222222222)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App/>
   </React.StrictMode>
 );
 
