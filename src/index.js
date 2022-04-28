@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-console.log("77777777777777")
+console.log("new new new ")
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
