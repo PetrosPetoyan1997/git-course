@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-console.log(7777777777777777)
+console.log(66666666)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
